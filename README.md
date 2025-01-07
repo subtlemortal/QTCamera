@@ -103,3 +103,11 @@ Contributions are welcome! To contribute:
 3. Commit your changes and open a pull request.
 
 ---
+
+Contact
+
+For any questions or support, please contact:
+
+shantanuundepatil@gmail.com
+
+GitHub: subtlemortal
